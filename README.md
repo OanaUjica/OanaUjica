@@ -1,6 +1,13 @@
 ### Hi there 👋, I am Oana Ujica!
 
+---
+
 A Software Developer with professional experience in the technologies listed in the toolbox below.
+
+---
+
+Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" />
 
 <!--
 **OanaUjica/OanaUjica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
