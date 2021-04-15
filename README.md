@@ -4,7 +4,7 @@
 
 A Software Developer with professional experience in the technologies listed in the toolbox below.
 
-You can contact me on <a href="https://www.linkedin.com/in/oana-ujica/">LinkedIn</a> and you can see my work here on GitHub.
+You can contact me on <a href="https://www.linkedin.com/in/oana-ujica/" target="_blank">LinkedIn</a> and you can see my work here on GitHub.
 
 ---
 
