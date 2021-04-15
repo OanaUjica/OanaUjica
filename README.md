@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Oana Ujica!
 
+A Software Developer with professional experience in the technologies listed in the toolbox below.
+
 <!--
 **OanaUjica/OanaUjica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
